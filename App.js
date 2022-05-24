@@ -202,7 +202,7 @@ const styles = StyleSheet.create({
 
   Rectangle3: {
     width: '95%',
-    height: 425,
+    height: 445,
     backgroundColor: '#EEEEEE',
     marginTop: 5,
     borderRadius: 10
